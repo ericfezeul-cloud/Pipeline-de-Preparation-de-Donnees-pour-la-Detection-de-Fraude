@@ -1,7 +1,3 @@
-Voici le contenu complet de votre fichier `README.md`, structuré professionnellement pour votre profil GitHub.
-
----
-
 # 🛡️ Pipeline de Préparation de Données pour la Détection de Fraude
 
 ## 📌 Aperçu
